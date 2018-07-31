@@ -1,4 +1,4 @@
-package myPackage;
+package kakao;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
